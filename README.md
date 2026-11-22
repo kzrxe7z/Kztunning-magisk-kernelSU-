@@ -1,5 +1,5 @@
 # Kztunning-magisk-kernelSU-
-ESTE MODULO ESTÁ EM BETA E FOI FEITO SOMENTE PARA O MEDIATEK HELIO G99 / MALIG57!!!
+ESTE MODULO ESTÁ EM BETA E FOI FEITO SOMENTE PARA O MEDIATEK HELIO G99 / MALIG57!!! (obs: por algum motivo quando você tentar ver o modulo no KernelSU do root temporário o app crasha. e se você quiser achar algum modulo que esta abaixo dele você vai ter q pesquisar o modulo especifico)
 
 um modulo feito para extrair o maximo de perfomance do HelioG99 (novos processadores em breve)
 

@@ -1,5 +1,7 @@
 # Kztunning-magisk-kernelSU-
-um modulo feito para extrair o maximo de perfomance do HelioG99 (novos processadores embreve)
+ESTE MODULO ESTÁ EM BETA E FOI FEITO SOMENTE PARA O MEDIATEK HELIO G99 / MALIG57!!!
+
+um modulo feito para extrair o maximo de perfomance do HelioG99 (novos processadores em breve)
 
 # Kztuning MAX PERFORMANCE — Helio G99 / Mali-G57 MC2
 

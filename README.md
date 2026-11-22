@@ -1,5 +1,5 @@
 # Kztunning-magisk-kernelSU-
-A module that can save a low-end Samsung device by using tweaks to the kernel itself.
+um modulo feito para extrair o maximo de perfomance do HelioG99 (novos processadores embreve)
 
 # Kztuning MAX PERFORMANCE — Helio G99 / Mali-G57 MC2
 
